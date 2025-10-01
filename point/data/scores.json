@@ -1,0 +1,105 @@
+{
+    "members": {
+        "NIL": {
+            "name": "นิล",
+            "role": "member",
+            "password": "nil1324",
+            "current_score": 53,
+            "avatar": "assets\/nil_avatar.png",
+            "banner": "assets\/nil_banner.jpg",
+            "bio": "ยินดีที่ได้ทำงานร่วมกันค่ะ!",
+            "score_history": []
+        },
+        "GRACE": {
+            "name": "เกรซ",
+            "role": "member",
+            "password": "grace1234",
+            "current_score": 37,
+            "avatar": "assets\/grace_avatar.png",
+            "banner": "assets\/grace_banner.jpg",
+            "bio": "พร้อมลุยทุกงาน!",
+            "score_history": []
+        },
+        "TA": {
+            "name": "ต้า",
+            "role": "member",
+            "password": "ta1234",
+            "current_score": 32,
+            "avatar": "assets\/ta_avatar.png",
+            "banner": "assets\/ta_banner.jpg",
+            "bio": "โฟกัสที่ผลลัพธ์!",
+            "score_history": []
+        },
+        "BELLE": {
+            "name": "เบล",
+            "role": "member",
+            "password": "belle1234",
+            "current_score": 36,
+            "avatar": "assets\/belle_avatar.png",
+            "banner": "assets\/belle_banner.jpg",
+            "bio": "คิดเร็ว ทำเร็ว พร้อมช่วยออกความเห็น",
+            "score_history": []
+        },
+        "MAY": {
+            "name": "เมย์",
+            "role": "member",
+            "password": "may1234",
+            "current_score": 9,
+            "avatar": "assets\/may_avatar.png",
+            "banner": "assets\/may_banner.jpg",
+            "bio": "มุ่งมั่นและใส่ใจในรายละเอียด",
+            "score_history": []
+        },
+        "AUM": {
+            "name": "อั้ม",
+            "role": "member",
+            "password": "aum1234",
+            "current_score": 7,
+            "avatar": "assets\/aum_avatar.png",
+            "banner": "assets\/aum_banner.jpg",
+            "bio": "เน้นความถูกต้องและตรงต่อเวลา",
+            "score_history": []
+        },
+        "CREAM": {
+            "name": "ครีม",
+            "role": "member",
+            "password": "cream1234",
+            "current_score": 14,
+            "avatar": "assets\/cream_avatar.png",
+            "banner": "assets\/cream_banner.jpg",
+            "bio": "ผู้ประสานงานและผู้จัดการเวลา",
+            "score_history": []
+        },
+        "FONG": {
+            "name": "ฟาง",
+            "role": "member",
+            "password": "fong1234",
+            "current_score": 23,
+            "avatar": "assets\/fong_avatar.png",
+            "banner": "assets\/fong_banner.jpg",
+            "bio": "พร้อมสร้างสรรค์ผลงานกราฟิก",
+            "score_history": []
+        },
+        "NOEY": {
+            "name": "เนย",
+            "role": "member",
+            "password": "noey1234",
+            "current_score": 9,
+            "avatar": "assets\/noey_avatar.png",
+            "banner": "assets\/noey_banner.jpg",
+            "bio": "ค้นหาข้อมูลได้ตามสั่ง!",
+            "score_history": []
+        },
+        "ADMIN": {
+            "name": "ผู้ดูแลระบบ",
+            "role": "admin",
+            "password": "132400",
+            "current_score": 0,
+            "avatar": "assets\/admin_avatar.jpg",
+            "banner": "assets\/admin_banner.jpg",
+            "bio": "ผู้จัดการระบบและผู้มอบคะแนน",
+            "score_history": []
+        }
+    },
+    "announcements": []
+}
